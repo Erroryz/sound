@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'JetBrainsMono-Regular';
+    src: url('JetBrainsMono-Regular.ttf') format('truetype');
+}
+body {
+    background-color: #171717;
+    font-family: 'JetBrainsMono-Regular';
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#botao {
+    font-family: 'JetBrainsMono-Regular';
+    background-color: white;
+    border: none;
+    color: #171717;
+    padding: 10px 20px;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s cubic-bezier(0.645, 0.045, 0.355, 1),
+                transform 0.3s ease-in-out;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+    font-size: 16px;
+}
+
+#botao:hover {
+    font-family: 'JetBrainsMono-Regular';
+    background-color: #837b7b;
+    transform: scale(1.15); 
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+}
+
+#botao:active {
+    transform: translateY(1px);
+}
+
+
+#tempo-restante {
+    color: white;
+    margin-bottom: 20px;
+    transition: opacity 1s is ease-in-out;
+}
