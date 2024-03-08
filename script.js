@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function() {
-    document.getElementById('tempo-restante').style.opacity = '0'; // Oculta o texto inicialmente
+    document.getElementById('tempo-restante').style.opacity = '0';
 });
 function fadeInTempo() {
     var tempoRestante = document.getElementById('tempo-restante');
@@ -7,7 +7,7 @@ function fadeInTempo() {
         var opacidadeAtual = parseFloat(tempoRestante.style.opacity);
         var novaOpacidade = opacidadeAtual + 0.1;
         tempoRestante.style.opacity = novaOpacidade;
-        setTimeout(fadeInTempo, 100); // Chama a função novamente após 100ms para um efeito suave
+        setTimeout(fadeInTempo, 100); 
     }
 }
 function tocarMusica() {
