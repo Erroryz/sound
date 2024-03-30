@@ -2,14 +2,7 @@
 
 sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound 
 
-**sound**
-*sound*  
-<u>sound</u>  
-~~sound~~
-
-`sound`  
-<sup>sound</sup>  
-<sub>sound</sub>  
+**sound** *sound* <u>sound</u> ~~sound~~ `sound` <sup>sound</sup> <sub>sound</sub>  
 
 ```bash
 sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound sound soundsound sound sound sound sound sound sound sound sound 
